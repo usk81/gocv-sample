@@ -1,0 +1,2 @@
+export DEFAULTCASCADEFILE="data/haarcascade_frontalface_default.xml"
+export GOCVOUTPUTDIR="/tmp"
